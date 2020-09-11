@@ -1,0 +1,74 @@
+[
+{
+    "model": "parser.company",
+    "pk": 1,
+    "fields": {
+        "name": "DOCU",
+        "file_csv": "",
+        "file_news": ""
+    }
+},
+{
+    "model": "parser.company",
+    "pk": 2,
+    "fields": {
+        "name": "PD",
+        "file_csv": "",
+        "file_news": ""
+    }
+},
+{
+    "model": "parser.company",
+    "pk": 3,
+    "fields": {
+        "name": "ZUO",
+        "file_csv": "",
+        "file_news": ""
+    }
+},
+{
+    "model": "parser.company",
+    "pk": 4,
+    "fields": {
+        "name": "PINS",
+        "file_csv": "",
+        "file_news": ""
+    }
+},
+{
+    "model": "parser.company",
+    "pk": 5,
+    "fields": {
+        "name": "ZM",
+        "file_csv": "",
+        "file_news": ""
+    }
+},
+{
+    "model": "parser.company",
+    "pk": 6,
+    "fields": {
+        "name": "PVTL",
+        "file_csv": "",
+        "file_news": ""
+    }
+},
+{
+    "model": "parser.company",
+    "pk": 7,
+    "fields": {
+        "name": "CLDR",
+        "file_csv": "",
+        "file_news": ""
+    }
+},
+{
+    "model": "parser.company",
+    "pk": 8,
+    "fields": {
+        "name": "RUN",
+        "file_csv": "",
+        "file_news": ""
+    }
+}
+]
